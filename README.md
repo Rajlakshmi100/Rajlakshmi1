@@ -5,7 +5,8 @@ This repository offers the designing of a 10 Bit Potentiometric Digital to Analo
 An n bit DAC:
  An N-Bit DAC takes an input of N-Bit digital word and converts the digital input signal into analog output signal in the form of voltage or current. It is a digital analog convertor device. According to the Nyquist-Shannon sampling theorem , any sampled data can be reconstructed perfectly with bandwidth and  Nyquist criteria.  A N-bit DAC takes an input of N-bitdigital word and converts the digital input-ouput signal in the form of signal or current. The number of possible different ouput levels which DAC can generate is known as resolution of the DAC convertor. 
 The digital signal is represented with binary codes combination of bits 0 and 1.
-Here’s an example of N-Bit Potentiometric DAC shown in the figure below:![circuit (1)](https://user-images.githubusercontent.com/91679375/135673322-c367c782-b1f4-4fba-9e8d-72d02e1fe73f.png)
+Here’s an example of N-Bit Potentiometric DAC shown in the figure below:
+![circuit (1)](https://user-images.githubusercontent.com/91679375/135673322-c367c782-b1f4-4fba-9e8d-72d02e1fe73f.png)
 
 
 Opensource Tools used:
